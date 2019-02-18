@@ -1,6 +1,6 @@
 //
 //  ViewController.h
-//  TestCocoaPods
+//  MTAladdinTestCocoaPods
 //
 //  Created by MenThu on 2019/2/18.
 //  Copyright © 2019 MenThu. All rights reserved.
